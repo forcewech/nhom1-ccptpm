@@ -2,6 +2,7 @@
   list-style: none;
   margin: auto;
   width: 1280px;
+  justify-content: center;
 }
 
 .menu__list {

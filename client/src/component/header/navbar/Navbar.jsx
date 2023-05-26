@@ -10,7 +10,7 @@ const Navbar = () => {
     <div className="header__navbar d-flex justify-content-between align-items-center">
       <Link to="/">
         <img
-          src="https://firebasestorage.googleapis.com/v0/b/shopmaytinh-f4fce.appspot.com/o/logo.png?alt=media&token=fc8ad82d-f446-4574-950b-7e4b46b5dbb8"
+          src="https://scontent.fhan15-2.fna.fbcdn.net/v/t1.15752-9/349499051_782785400095964_5917551194470912748_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=iluCyTqwJt4AX-mW6GZ&_nc_ht=scontent.fhan15-2.fna&oh=03_AdSwWFpBtbiuHYiB9pLiupQsBPlAV20VMUmLxXdBFM7UYQ&oe=64971BB7"
           alt=""
           className="navbar__img"
         />

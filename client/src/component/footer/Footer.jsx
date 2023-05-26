@@ -5,7 +5,6 @@ const Footer = () => {
   return (
     <div className="footer d-flex">
       <div className="w-75 ml-5 mt-4 mr-5 ">
-        <h3 className="footer__title">Tự tin mua sắm cùng Minh Hải</h3>
         <div className=" note d-flex">
           <div className="footer__note">
             <img
@@ -39,34 +38,14 @@ const Footer = () => {
             src="https://firebasestorage.googleapis.com/v0/b/shopmaytinh-f4fce.appspot.com/o/icon%2Finfo.png?alt=media&token=344fbd13-25c1-4606-b639-fdfa8a2d8b31"
             alt=""
           />
-          <div className="footer__infor--title">Thông tin người code</div>
+          <div className="footer__infor--title">Thông tin code</div>
           <div className="d-flex">
-            <ul className="footer__infor--list">
-              <li>
-                <i className="fa-solid fa-mobile-screen-button"></i> Hotline:
-                032 864 1477
-              </li>
-              <li>
-                <i className="fa-brands fa-facebook"></i>
-                Facebook:
-                <a href="https://www.facebook.com/minhhai2502/">Minh Hải</a>
-              </li>
-              <li>
-                <i className="fa-brands fa-instagram"></i>
-                Instagram:
-                <a href="https://www.instagram.com/minhhai2502/">minhhai2502</a>
-              </li>
-            </ul>
             <ul className="footer__infor--list">
               <li>
                 <i className="fa-brands fa-git"></i>
                 <a href="https://github.com/haiacoustic25/ShopMayTinh">
-                  https://github.com/haiacoustic25/
+                https://github.com/forcewech/nhom1-ccptpm
                 </a>
-              </li>
-              <li>
-                <i className="fa-solid fa-envelope"></i>
-                Gmail: haiacoustic25@gmail.com
               </li>
               <li>
               <i className="fa-solid fa-building-columns"></i>
@@ -77,9 +56,9 @@ const Footer = () => {
         </div>
       </div>
       <img
-        src="https://firebasestorage.googleapis.com/v0/b/shopmaytinh-f4fce.appspot.com/o/IMG_0314.JPG?alt=media&token=ef4d2efa-05a4-4c0d-a177-496725a9c1b5"
+        src="https://images.unsplash.com/photo-1684652116510-8e65f0ea3ea0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
         alt=""
-        className="flex-shrink-1 w-25"
+        className="flex-shrink-1 w-25 img-sub"
       />
     </div>
   );

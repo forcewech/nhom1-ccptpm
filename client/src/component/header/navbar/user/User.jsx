@@ -14,7 +14,7 @@ const User = () => {
       {!checkAccount.isAuth ? (
         <div className="navbar__icon--user">
           <img
-            src="https://firebasestorage.googleapis.com/v0/b/shopmaytinh-f4fce.appspot.com/o/icon%2Fuser.png?alt=media&token=4b2b735b-5b50-4311-87ef-c848c242d077"
+            src="https://scontent.fhan15-2.fna.fbcdn.net/v/t1.15752-9/349499051_782785400095964_5917551194470912748_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=iluCyTqwJt4AX-mW6GZ&_nc_ht=scontent.fhan15-2.fna&oh=03_AdSwWFpBtbiuHYiB9pLiupQsBPlAV20VMUmLxXdBFM7UYQ&oe=64971BB7"
             alt=""
           />
           <ul className="arrow-up">
