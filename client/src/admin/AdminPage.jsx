@@ -24,13 +24,6 @@ const AdminPage = () => {
     <div className="body">
       <div className="mt-2 d-flex justify-content-between">
         <div>
-          <Link to="/">
-            <img
-              src="https://firebasestorage.googleapis.com/v0/b/shopmaytinh-f4fce.appspot.com/o/logo.png?alt=media&token=fc8ad82d-f446-4574-950b-7e4b46b5dbb8"
-              alt=""
-              className="navbar__img"
-            />
-          </Link>
           <Form.Select
             aria-label="Default select example"
             name="proceed"
